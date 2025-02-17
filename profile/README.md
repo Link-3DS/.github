@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Link3DS** is an open-source project aimed at recreating the online servers for the Nintendo 3DS and Nintendo Wii U. It allows users to connect to private servers to relive the online gaming experience on these retro consoles.
+**Link3DS** is an open-source project aimed at recreating the online servers for the Nintendo 3DS and Nintendo Wii U. It allows users to connect to private servers to realive the online gaming experience on these retro consoles.
 
 ---
 

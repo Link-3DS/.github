@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Features
-- **Private online servers**: Recreate the servers that were once accessible for the Nintendo 3DS and Nintendo Wii U consoles.
+- **Online servers**: Recreate the servers that were once accessible for the Nintendo 3DS and Nintendo Wii U consoles.
 - **Seamless connection**: Let your favorite games reconnect to a true online experience.
 - **Wide game compatibility**: Supports a variety of popular Nintendo 3DS and Nintendo Wii U titles.
 

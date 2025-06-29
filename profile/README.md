@@ -11,5 +11,9 @@
 - **Seamless connection**: Let your favorite games reconnect to a true online experience.
 - **Wide game compatibility**: Supports a variety of popular Nintendo 3DS and Nintendo Wii U titles.
 
+## Links
+- [Website](https://nextendo.online)
+- [Discord](https://discord.gg/FsNmWzVTPD)
+
 ## 🛡 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
